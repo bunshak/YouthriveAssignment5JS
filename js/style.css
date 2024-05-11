@@ -1,0 +1,16 @@
+
+* body {
+    text-align: center;
+    background-color: orange;
+    text-decoration-line:underline;
+    border: 1px solid black;
+    color: #000;
+}
+
+* footer{
+    text-align: center;
+    padding: 5px;
+    margin: 500px;
+    width: 20%;
+    color: #000;
+}
